@@ -10,7 +10,11 @@ Wynn AI Arena is an AI-powered casino gaming platform that combines **real-world
 
 ## 🚀 Overview
 
-Wynn AI Arena is designed to revolutionize casino entertainment by blending:
+AI ARENA is an advanced casino ecosystem that combines real-money gaming with artificial intelligence to create a living AI economy. Players engage in casino games such as slots, poker, roulette, and VR casino experiences, while the platform simultaneously collects behavioral data to train two AI bots for each user: a Personal Bot, which models optimal strategic thinking, and a Behavior Bot, which captures real human actions, emotions, and decision patterns. By comparing these two bots, the system measures skill, emotional control, and decision quality.
+
+As bots learn and evolve, they progress through lifecycle stages—birth, growth, prime, decline, and retirement—making them dynamic digital assets rather than static AI models. These bots can compete in seasonal AI tournaments, earn rewards in crypto, and gain marketplace value based on performance, rarity, and adaptability. Users can also trade bots or breed retired bots to create new generations with inherited traits.
+
+The entire platform runs as a closed economic loop where casino gameplay generates revenue, gameplay data trains AI, AI bots compete for rewards, and successful bots become valuable tradable assets. In essence, AI ARENA transforms a traditional casino into a hybrid system of gambling, AI evolution, and digital asset ownership.
 
 - 🎲 Traditional casino games (Blackjack, Roulette, Slots, Poker)
 - 🤖 AI-powered dealers and opponents
@@ -28,6 +32,8 @@ Advanced AI powers:
 - Dealers that simulate real human behavior
 - Adaptive difficulty for players
 - Smart betting behavior and game balancing
+- AI bots live and evolve inside the ecosystem
+-AI NFT can be trading
 
 ### 🎲 Classic Casino Games
 Enjoy fully AI-enhanced versions of:
@@ -160,5 +166,5 @@ npm start
 - Tag related issues/tasks.
 
 ## Confidentiality
-This repository is proprietary to **Ritual Net**.
+This repository is proprietary to **wynn company**.
 
